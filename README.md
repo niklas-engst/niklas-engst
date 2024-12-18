@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=niklas-engst&label=Profile%20views&color=0e75b6&style=onedark" alt="Profile Views" />
 </p>
 
-- 🔭 I’m currently working on OpenDUT
+- 🔭 I’m currently working on OpenDuT
 
 - 🌱 I’m currently learning **Rust**
 
