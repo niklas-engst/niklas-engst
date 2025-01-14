@@ -20,7 +20,7 @@
 		<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
 	</a>
 	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+		<img src="https://www.svgrepo.com/show/353478/bash-icon.svg" alt="bash" width="40" height="40"/>
 	</a>
 	<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -41,7 +41,7 @@
 		<img src="https://raw.githubusercontent.com/dotnet/brand/refs/heads/main/logo/dotnet-logo.svg" alt="dotnet" width="40" height="40"/>
 	</a>
 	<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+		<img src="https://upload.vectorlogo.zone/logos/expressjs/images/a1b5cb1f-dae7-4971-ab5b-68efce751b0f.svg" alt="express" width="40" height="40"/> 
 	</a>
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
@@ -78,6 +78,9 @@
 	</a>
 	<a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> 
 		<img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> 
+	</a>
+	<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
+		<img src="http://rust-lang.org/logos/rust-logo-512x512.png" alt="rust" width="40" height="40"/> 
 	</a>
 	<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
 		<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
